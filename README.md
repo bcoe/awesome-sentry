@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A collection of awesome [sentry.io](sentry.io) docs, examples, and videos, for solving common development problems. 😎
+A collection of awesome [sentry.io](https://sentry.io) articles and videos, that help you solve common development problems with Sentry. 😎
 
 <!-- image -->
 
@@ -18,9 +18,8 @@ A collection of awesome [sentry.io](sentry.io) docs, examples, and videos, for s
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+[sentry.io](https://sentry.io) instruments your application with observability, such as error tracking and tracing, making it easy to debug and improve your
+application in the wild.
 
 </div>
 
@@ -39,15 +38,10 @@ example.
 
 ### Debugging Applications
 
-#### Articles
+#### Articles / Docs
 
 - [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcment for logs. Includes examples for getting started.
 - [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch anomalies before they break an application.
-
-#### Docs
-
-- [Platform Docs](https://docs.sentry.io/platforms/) - Docs for bootstrapping Sentry on various platforms.
-- [Set Up Logs](https://docs.sentry.io/platforms/javascript/logs/) - Docs for setting up logs on various platforms.
 
 #### Videos
 
@@ -55,6 +49,15 @@ example.
 - [Setting up Sentry Logs for Laravel](https://www.youtube.com/watch?v=isyAwH9t68M&t=1s) - Walkthrough of setting up Sentry logging to debug Laravel applications.
 
 ### Improving User Experience
+
+#### Articles / Docs
+
+- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. How to use Sentry to monitor them.
+- [Your poor LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/) - How slow rendering on your website might be caused by backend issues.
+
+#### Videos
+
+#### Tools
 
 <!-- END CONTENT -->
 
