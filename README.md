@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A collection of awesome Sentry.io docs, examples, and videos, for solving common development problems. 😎
+A collection of awesome [sentry.io](sentry.io) docs, examples, and videos, for solving common development problems. 😎
 
 <!-- image -->
 
