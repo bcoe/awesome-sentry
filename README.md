@@ -37,17 +37,22 @@ example.
 
 ## Full-Stack Development
 
-- [Platform Docs](https://docs.sentry.io/platforms/) - Setup guides for various platforms.
-
-### Debugging Errors
+### Debugging Applications
 
 #### Articles
 
 - [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcment for logs. Includes examples for getting started.
+- [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch anomalies before they break an application.
 
 #### Docs
 
+- [Platform Docs](https://docs.sentry.io/platforms/) - Docs for bootstrapping Sentry on various platforms.
+- [Set Up Logs](https://docs.sentry.io/platforms/javascript/logs/) - Docs for setting up logs on various platforms.
+
 #### Videos
+
+- [Setting up Sentry Logs for Next.js](https://www.youtube.com/watch?v=m3zuWITW-yI) - Walkthrough of setting up Sentry logging to debug Next.js applications.
+- [Setting up Sentry Logs for Laravel](https://www.youtube.com/watch?v=isyAwH9t68M&t=1s) - Walkthrough of setting up Sentry logging to debug Laravel applications.
 
 ### Improving User Experience
 
