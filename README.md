@@ -37,7 +37,17 @@ example.
 
 ## Full-Stack Development
 
+- [Platform Docs](https://docs.sentry.io/platforms/) - Setup guides for various platforms.
+
 ### Debugging Errors
+
+#### Articles
+
+- [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcment for logs. Includes examples for getting started.
+
+#### Docs
+
+#### Videos
 
 ### Improving User Experience
 
