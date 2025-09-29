@@ -57,8 +57,8 @@ Sentry instruments your application with observability, such as error tracking a
 
 - [Setting up Sentry Logs for Next.js](https://www.youtube.com/watch?v=m3zuWITW-yI) - Walkthrough of setting up Sentry logging to debug Next.js applications.
 - [Setting up Sentry Logs for Laravel](https://www.youtube.com/watch?v=isyAwH9t68M&t=1s) - Walkthrough of setting up Sentry logging to debug Laravel applications.
-- [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - New Browser Tracing features in Sentry's SDK, as of Sep 29, 2025
-  - Explicitly, ending the pageload spans, Accessing spans outside of callbacks, Sentry automatically handling redirects, Ignoring specific spans, Adding timing attributes to resource spans, Pushing CLS and LCP as standalone Web Vital spans.
+- [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - SDK features recently released that help make traces cleaner, while adding more context.
+  - Explicitly, ending the pageload spans, accessing spans outside of callbacks, Sentry automatically handling redirects, ignoring specific spans, adding timing attributes to resource spans, pushing CLS and LCP as standalone Web Vital spans.
 - [Fixing issues faster with anomaly detection](https://www.youtube.com/watch?v=-d1phmfnsOU) - Using anomaly detection to catch strange application behaviour before it's an error. 
 
 ### Improving User Experience
