@@ -45,12 +45,13 @@ Sentry instruments your application with observability, such as error tracking a
 
 ## Full-Stack Development
 
-### Debugging Applications
+### Debugging / Monitoring Applications
 
 #### Articles / Docs
 
 - [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcment for logs. Includes examples for getting started.
 - [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch traffic anomalies before they break an application.
+- [Configuring alerts from dashboards in Sentry](https://blog.sentry.io/use-sentry-insights-trigger-alerts-debug-issues/) - Creating alerts from the widgets shown on Sentry [Inights](https://docs.sentry.io/product/insights/) and [Dashboards](https://docs.sentry.io/product/dashboards/custom-dashboards/).
 
 #### Videos
 
