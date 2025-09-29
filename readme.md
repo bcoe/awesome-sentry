@@ -2,11 +2,9 @@
 
 <!-- title -->
 
-Awesome Sentry
-
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/bcoe/awesome-sentry/actions/workflows/lint.yaml/badge.svg)](https://github.com/bcoe/awesome-sentry/actions/workflows/lint.yaml)
+# Awesome Sentry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/bcoe/awesome-sentry/actions/workflows/lint.yaml/badge.svg)](https://github.com/bcoe/awesome-sentry/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
