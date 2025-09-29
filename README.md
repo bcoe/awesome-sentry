@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A collection of awesome articles and videos, and tools, that help you solve common development problems with Sentry. 😎
+A collection of awesome, articles, videos, and tools, that help you solve common development problems with Sentry. 😎
 
 <!-- image -->
 
@@ -18,8 +18,7 @@ A collection of awesome articles and videos, and tools, that help you solve comm
 
 <!-- description -->
 
-Sentry instruments your application with observability, such as error tracking and tracing, making it easy to debug and improve your
-application in the wild.
+Sentry instruments your application with observability, such as error tracking and tracing, making it easy to debug and improve your application for real users.
 
 </div>
 
@@ -63,7 +62,7 @@ application in the wild.
 #### Articles / Docs
 
 - [Web Vitals](https://web.dev/articles/vitals) - Introduction to Web Vitals metrics and why they're important.
-- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. Using Sentry to catch them and verify fixes.
+- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. Using Sentry to find missing indices and to verify fixes.
 - [Your poor LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/) - Slow rendering on your website might be caused by backend issues.
 - [Core KPIs for LLM Performance](https://blog.sentry.io/core-kpis-llm-performance-how-to-track-metrics/) - What should you monitor in your applications that talk to LLMs?
 
