@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A collection of awesome [sentry.io](https://sentry.io) articles and videos, that help you solve common development problems with Sentry. 😎
+A collection of awesome articles and videos, and tools, that help you solve common development problems with Sentry. 😎
 
 <!-- image -->
 
@@ -41,7 +41,7 @@ application in the wild.
 #### Articles / Docs
 
 - [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcment for logs. Includes examples for getting started.
-- [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch anomalies before they break an application.
+- [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch traffic anomalies before they break an application.
 
 #### Videos
 
@@ -53,7 +53,7 @@ application in the wild.
 #### Articles / Docs
 
 - [Web Vitals](https://web.dev/articles/vitals) - Introduction to Web Vitals metrics and why they're important.
-- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications, and using Sentry to monitor them.
+- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. Using Sentry to catch them.
 - [Your poor LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/) - Slow rendering on your website might be caused by backend issues.
 - [Core KPIs for LLM Performance](https://blog.sentry.io/core-kpis-llm-performance-how-to-track-metrics/) - What should you monitor in your applications that talk to LLMs?
 
