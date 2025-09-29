@@ -70,6 +70,7 @@ Sentry instruments your application with observability, such as error tracking a
 #### Videos
 
 - [Fixing Web Vitals problems with AI](https://www.youtube.com/watch?v=CAcgTvB1aXs) - Using Sentry's AI tool Seer to root cause and fix user experience problems.
+- [Fixing issues faster with anomaly detection](https://www.youtube.com/watch?v=-d1phmfnsOU)
 
 #### Tools
 
