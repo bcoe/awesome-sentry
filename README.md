@@ -52,12 +52,18 @@ application in the wild.
 
 #### Articles / Docs
 
-- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. How to use Sentry to monitor them.
-- [Your poor LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/) - How slow rendering on your website might be caused by backend issues.
+- [Web Vitals](https://web.dev/articles/vitals) - Introduction to Web Vitals metrics and why they're important.
+- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications, and using Sentry to monitor them.
+- [Your poor LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/) - Slow rendering on your website might be caused by backend issues.
+- [Core KPIs for LLM Performance](https://blog.sentry.io/core-kpis-llm-performance-how-to-track-metrics/) - What should you monitor in your applications that talk to LLMs?
 
 #### Videos
 
+- [Fixing Web Vitals problems with AI](https://www.youtube.com/watch?v=CAcgTvB1aXs) - Using Sentry's AI tool Seer to root cause and fix user experience problems.
+
 #### Tools
+
+- [webvitals.com](https://webvitals.com/) - Interactive tool that demonstrates and explains each Web Vital.
 
 <!-- END CONTENT -->
 
