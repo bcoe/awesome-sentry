@@ -18,7 +18,7 @@ A collection of awesome articles and videos, and tools, that help you solve comm
 
 <!-- description -->
 
-[sentry.io](https://sentry.io) instruments your application with observability, such as error tracking and tracing, making it easy to debug and improve your
+Sentry instruments your application with observability, such as error tracking and tracing, making it easy to debug and improve your
 application in the wild.
 
 </div>
@@ -33,6 +33,16 @@ application in the wild.
 <!-- CONTENT -->
 
 ## Mobile Development
+
+### Improving User Experience
+
+#### Videos
+
+- [Tracking Critical Paths in React Native](https://www.youtube.com/watch?v=4s8BlzwWiIA) - Using sentry to monitor and improve important user flows in your apps.
+
+#### Tools
+
+- [FaultOrdering](https://github.com/getsentry/FaultOrdering) - Order files can reduce app startup time by co-locating symbols that are accessed during app launch, reducing the number of page faults from the app.
 
 ## Full-Stack Development
 
@@ -53,7 +63,7 @@ application in the wild.
 #### Articles / Docs
 
 - [Web Vitals](https://web.dev/articles/vitals) - Introduction to Web Vitals metrics and why they're important.
-- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. Using Sentry to catch them.
+- [Missing indexes are slowing down your application](https://blog.sentry.io/missing-indexes-are-slowing-down-your-database-heres-how-to-find-and-fix/) - How to find / fix missing indices in JavaScript applications. Using Sentry to catch them and verify fixes.
 - [Your poor LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/) - Slow rendering on your website might be caused by backend issues.
 - [Core KPIs for LLM Performance](https://blog.sentry.io/core-kpis-llm-performance-how-to-track-metrics/) - What should you monitor in your applications that talk to LLMs?
 
