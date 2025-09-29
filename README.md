@@ -38,6 +38,7 @@ Sentry instruments your application with observability, such as error tracking a
 #### Videos
 
 - [Tracking Critical Paths in React Native](https://www.youtube.com/watch?v=4s8BlzwWiIA) - Using sentry to monitor and improve important user flows in your apps.
+- [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - A video presenting the newest Browser Tracing features in Sentry's SDK as of Sep 29, 2025
 
 #### Tools
 
