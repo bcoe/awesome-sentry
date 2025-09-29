@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
 
 <!-- title -->
 
@@ -12,8 +12,8 @@ A collection of awesome [sentry.io](sentry.io) docs, examples, and videos, for s
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="./sentry-logo.png" />
+<a href='https://sentry.io' target='_blank' rel='noopener noreferrer'>
+  <img src='./sentry-logo.png' />
 </a>
 
 <!-- description -->
@@ -28,27 +28,20 @@ example.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Mobile Development](#mobile-development)
+- [Full-Stack Development](#full-stack-development)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Mobile Development
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+## Full-Stack Development
 
-## Section 1
+### Debugging Errors
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+### Improving User Experience
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
