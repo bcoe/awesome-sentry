@@ -38,7 +38,6 @@ Sentry instruments your application with observability, such as error tracking a
 #### Videos
 
 - [Tracking Critical Paths in React Native](https://www.youtube.com/watch?v=4s8BlzwWiIA) - Using sentry to monitor and improve important user flows in your apps.
-- [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - A video presenting the newest Browser Tracing features in Sentry's SDK as of Sep 29, 2025
 
 #### Tools
 
@@ -58,6 +57,7 @@ Sentry instruments your application with observability, such as error tracking a
 
 - [Setting up Sentry Logs for Next.js](https://www.youtube.com/watch?v=m3zuWITW-yI) - Walkthrough of setting up Sentry logging to debug Next.js applications.
 - [Setting up Sentry Logs for Laravel](https://www.youtube.com/watch?v=isyAwH9t68M&t=1s) - Walkthrough of setting up Sentry logging to debug Laravel applications.
+- [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - A video presenting the newest Browser Tracing features in Sentry's SDK as of Sep 29, 2025
 
 ### Improving User Experience
 
