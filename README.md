@@ -49,9 +49,10 @@ Sentry instruments your application with observability, such as error tracking a
 
 #### Articles / Docs
 
-- [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcment for logs. Includes examples for getting started.
+- [Logs are Generally Available](https://blog.sentry.io/logs-generally-available/) - Launch announcement for logs. Includes examples for getting started.
 - [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch traffic anomalies before they break an application.
 - [Configuring alerts from dashboards in Sentry](https://blog.sentry.io/use-sentry-insights-trigger-alerts-debug-issues/) - Creating alerts from the widgets shown on Sentry [Inights](https://docs.sentry.io/product/insights/) and [Dashboards](https://docs.sentry.io/product/dashboards/custom-dashboards/).
+- [Sentry vs. Logging](https://sentry.io/vs/logging/) - Clear overview of how Sentry’s debugging signals differ from traditional logging with guidance on how to use it.
 
 #### Videos
 
@@ -59,7 +60,7 @@ Sentry instruments your application with observability, such as error tracking a
 - [Setting up Sentry Logs for Laravel](https://www.youtube.com/watch?v=isyAwH9t68M&t=1s) - Walkthrough of setting up Sentry logging to debug Laravel applications.
 - [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - SDK features recently released that help make traces cleaner, while adding more context.
   - Explicitly, ending the pageload spans, accessing spans outside of callbacks, Sentry automatically handling redirects, ignoring specific spans, adding timing attributes to resource spans, pushing CLS and LCP as standalone Web Vital spans.
-- [Fixing issues faster with anomaly detection](https://www.youtube.com/watch?v=-d1phmfnsOU) - Using anomaly detection to catch strange application behaviour before it's an error. 
+- [Fixing issues faster with anomaly detection](https://www.youtube.com/watch?v=-d1phmfnsOU) - Using anomaly detection to catch strange application behaviour before it's an error.
 
 ### Improving User Experience
 
