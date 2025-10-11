@@ -28,6 +28,7 @@ Sentry instruments your application with observability, such as error tracking a
 
 - [Mobile Development](#mobile-development)
 - [Full-Stack Development](#full-stack-development)
+- [Sentry using Sentry](#sentry-using-sentry)
 
 <!-- CONTENT -->
 
@@ -53,13 +54,15 @@ Sentry instruments your application with observability, such as error tracking a
 - [How Sentry could stop npm from breaking the Internet](https://blog.sentry.io/how-sentry-could-stop-npm-from-breaking-the-internet/) - Using tracing and alerts to catch traffic anomalies before they break an application.
 - [Configuring alerts from dashboards in Sentry](https://blog.sentry.io/use-sentry-insights-trigger-alerts-debug-issues/) - Creating alerts from the widgets shown on Sentry [Inights](https://docs.sentry.io/product/insights/) and [Dashboards](https://docs.sentry.io/product/dashboards/custom-dashboards/).
 - [Sentry vs. Logging](https://sentry.io/vs/logging/) - Clear overview of how Sentry’s debugging signals differ from traditional logging with guidance on how to use it.
+- [Improving browser tracing](https://blog.sentry.io/improving-browser-tracing-step-by-step) - Recent (_Fall 2025_) quality of life improvements for tracing in the browser.
+  - Manually end pageload spans with `Sentry.reportPageLoaded();`.
+  - Standalone LCP and CLS spans.
+  - A slick API for ignoring spans.
 
 #### Videos
 
 - [Setting up Sentry Logs for Next.js](https://www.youtube.com/watch?v=m3zuWITW-yI) - Walkthrough of setting up Sentry logging to debug Next.js applications.
 - [Setting up Sentry Logs for Laravel](https://www.youtube.com/watch?v=isyAwH9t68M&t=1s) - Walkthrough of setting up Sentry logging to debug Laravel applications.
-- [Improving Browser Tracing Step by Step](https://www.youtube.com/watch?v=iUxyRV99AwY) - SDK features recently released that help make traces cleaner, while adding more context.
-  - Explicitly, ending the pageload spans, accessing spans outside of callbacks, Sentry automatically handling redirects, ignoring specific spans, adding timing attributes to resource spans, pushing CLS and LCP as standalone Web Vital spans.
 - [Fixing issues faster with anomaly detection](https://www.youtube.com/watch?v=-d1phmfnsOU) - Using anomaly detection to catch strange application behaviour before it's an error.
 
 ### Improving User Experience
@@ -74,10 +77,17 @@ Sentry instruments your application with observability, such as error tracking a
 #### Videos
 
 - [Fixing Web Vitals problems with AI](https://www.youtube.com/watch?v=CAcgTvB1aXs) - Using Sentry's AI tool Seer to root cause and fix user experience problems.
+  - [Seer can fix web vitals](https://www.youtube.com/watch?v=t0JQAxbPxPI) - Follow up showing the updated [webvitals.com][webvitals-url] site and the actual application of a fix from Seer.
 
 #### Tools
 
-- [webvitals.com](https://webvitals.com/) - Interactive tool that demonstrates and explains each Web Vital.
+- [webvitals.com][webvitals-url] - Interactive tool that demonstrates and explains each Web Vital.
+
+## Sentry using Sentry
+
+Examples of how we've used Sentry to find and fix problems with Sentry :infinity:.
+
+- [How we decreased P99s on our backend API requests by 3 seconds](https://blog.sentry.io/how-we-decreased-p99s-on-our-backend-api-requests-by-3-seconds/) - Using tracing, profiling, and Insights dashboards Sentry's API P99 performance.
 
 <!-- END CONTENT -->
 
@@ -88,3 +98,5 @@ Sentry instruments your application with observability, such as error tracking a
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/bcoe/awesome-sentry/graphs/contributors)!
+
+[webvitals-url]: https://webvitals.com
