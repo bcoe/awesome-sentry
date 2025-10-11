@@ -77,11 +77,11 @@ Sentry instruments your application with observability, such as error tracking a
 #### Videos
 
 - [Fixing Web Vitals problems with AI](https://www.youtube.com/watch?v=CAcgTvB1aXs) - Using Sentry's AI tool Seer to root cause and fix user experience problems.
-  - [Seer *can* fix web vitals] - Follow up showing the updated [webvitals.com](https://webvitals.com) site and the actual application of a fix from Seer.
+  - [Seer can fix web vitals](https://www.youtube.com/watch?v=t0JQAxbPxPI) - Follow up showing the updated [webvitals.com][webvitals-url] site and the actual application of a fix from Seer.
 
 #### Tools
 
-- [webvitals.com](https://webvitals.com/) - Interactive tool that demonstrates and explains each Web Vital.
+- [webvitals.com][webvitals-url] - Interactive tool that demonstrates and explains each Web Vital.
 
 ## Sentry using Sentry
 
@@ -98,3 +98,5 @@ Examples of how we've used Sentry to find and fix problems with Sentry :infinity
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/bcoe/awesome-sentry/graphs/contributors)!
+
+[webvitals-url]: https://webvitals.com
