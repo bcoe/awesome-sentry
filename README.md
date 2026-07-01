@@ -82,6 +82,7 @@ Sentry instruments your application with observability, such as error tracking a
 #### Tools
 
 - [webvitals.com][webvitals-url] - Interactive tool that demonstrates and explains each Web Vital.
+- [@stitchapi/sentry](https://github.com/rejifald/StitchAPI/tree/main/packages/sentry) - A Sentry TraceSink for StitchAPI that records API calls as breadcrumbs and captures failures as issues (metadata only).
 
 ## Sentry using Sentry
 
